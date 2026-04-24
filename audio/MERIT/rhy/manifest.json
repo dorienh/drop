@@ -1,0 +1,92 @@
+[
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_3776/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_01",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_3776/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_3776/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_3776/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_1495/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_02",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_1495/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_1495/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_1495/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_4723/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_03",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_4723/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_4723/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_4723/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_133/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_04",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_133/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_133/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_133/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_1943/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_05",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_1943/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_1943/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_1943/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_3063/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_06",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_3063/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_3063/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_3063/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_2226/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_07",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_2226/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_2226/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_2226/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_1650/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_08",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_1650/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_1650/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_1650/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_1396/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_09",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_1396/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_1396/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_1396/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/rhythm_triplets/triplets_2964/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/rhy/triplet_10",
+    "files": {
+      "anchor": "rhythm_triplets/triplets_2964/triplet/anchor.wav",
+      "positive": "rhythm_triplets/triplets_2964/triplet/positive_01.wav",
+      "negative": "rhythm_triplets/triplets_2964/triplet/negative.wav"
+    }
+  }
+]

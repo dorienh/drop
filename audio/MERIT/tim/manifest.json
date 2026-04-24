@@ -1,0 +1,92 @@
+[
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_485/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_01",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_485/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_485/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_485/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_1700/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_03",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_1700/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_1700/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_1700/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_845/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_04",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_845/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_845/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_845/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_769/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_05",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_769/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_769/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_769/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_1349/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_06",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_1349/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_1349/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_1349/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_1130/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_07",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_1130/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_1130/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_1130/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_1297/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_08",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_1297/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_1297/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_1297/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_1712/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_09",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_1712/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_1712/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_1712/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_262/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_10",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_262/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_262/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_262/triplet/negative.wav"
+    }
+  },
+  {
+    "triplet_dir": "/mnt/data2/roy/trimus/timbre_triplets_v2/triplets_1654/triplet",
+    "out_dir": "/mnt/data2/roy/probes/listening_test/tim/triplet_11",
+    "files": {
+      "anchor": "timbre_triplets_v2/triplets_1654/triplet/anchor.wav",
+      "positive": "timbre_triplets_v2/triplets_1654/triplet/positive_01.wav",
+      "negative": "timbre_triplets_v2/triplets_1654/triplet/negative.wav"
+    }
+  }
+]
